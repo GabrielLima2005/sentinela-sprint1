@@ -132,7 +132,7 @@ java -cp out sentinela.ExecutarTestes
 ### Cenário 1 — Rotina normal
 Leituras dentro dos limites, perímetro íntegro e drone em patrulha sem detecções. A central **não** emite alertas.
 
-![Cenário 1](img/cenario1png)
+![Cenário 1](img/cenario1.png)
 
 ### Cenário 2 — Pico de radiação
 A Casa do Reator (limite 3,00 µSv/h) recebe leitura de 4,70 µSv/h. A central aciona **alerta crítico**.
