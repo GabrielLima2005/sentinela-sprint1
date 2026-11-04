@@ -243,7 +243,12 @@ O atributo é `private` na mãe (**encapsulamento**): só ela decide como valida
 ## 👥 Autores
 | Nome | RM |
 |---|---|
-| _Seu nome_ | _seu RM_ |
+| Gabriel Lima da Silva | 568436 |
+| Nicolas Araujo de Oliveira | 5666780 |
+| João Carmo Cassu de Castro | 567030 |
+| Luiz Gustavo de Almeida | 566613|
+| Matheus Moura | 566782|
 
-**Disciplina:** _nome da disciplina_ — **Turma:** 2CCP — **Challenge Sprint 1**
+
+**Disciplina:** OBJECT-ORIENTED PROGRAMMING — **Turma:** 2CCP — **Challenge Sprint 1**
 
