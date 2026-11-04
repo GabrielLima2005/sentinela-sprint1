@@ -244,7 +244,7 @@ O atributo é `private` na mãe (**encapsulamento**): só ela decide como valida
 | Nome | RM |
 |---|---|
 | Gabriel Lima da Silva | 568436 |
-| Nicolas Araujo de Oliveira | 5666780 |
+| Nicolas Araujo de Oliveira | 566780 |
 | João Carmo Cassu de Castro | 567030 |
 | Luiz Gustavo de Almeida | 566613|
 | Matheus Moura | 566782|
