@@ -191,7 +191,6 @@ CENÁRIO 3 - ACESSO INDEVIDO
 ## ✅ Testes
 Os 7 testes cobrem os cenários sugeridos no enunciado. Podem ser executados **sem nenhuma biblioteca** (`ExecutarTestes`) ou com **JUnit 5** (`test/sentinela/SentinelaTest.java`).
 
-![Testes](docs/img/testes.png)
 
 | # | Teste | Conceito |
 |---|---|---|
