@@ -132,17 +132,17 @@ java -cp out sentinela.ExecutarTestes
 ### Cenário 1 — Rotina normal
 Leituras dentro dos limites, perímetro íntegro e drone em patrulha sem detecções. A central **não** emite alertas.
 
-![Cenário 1](docs/img/cenario1-rotina-normal.png)
+![Cenário 1](img/cenario1png)
 
 ### Cenário 2 — Pico de radiação
 A Casa do Reator (limite 3,00 µSv/h) recebe leitura de 4,70 µSv/h. A central aciona **alerta crítico**.
 
-![Cenário 2](docs/img/cenario2-pico-radiacao.png)
+![Cenário 2](img/cenario2.png)
 
 ### Cenário 3 — Acesso indevido
 O sensor perimetral detecta violação da cerca (alerta `ALTA`); o drone é despachado e a câmera simulada confirma um **veículo não identificado** (alerta `CRITICA`).
 
-![Cenário 3](docs/img/cenario3-acesso-indevido.png)
+![Cenário 3](img/cenario3.png)
 
 <details>
 <summary>📄 Ver saída completa em texto</summary>
